@@ -16,7 +16,9 @@
               \/            \/                  \/
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ```
+
 ## Features
+
 - Homebrew Enabler
 - Debug Settings
 - VR Support
@@ -29,8 +31,15 @@
 - UART Enabler
 - Never Disable Screenshot
 - Remote Play Enabler
-- Persistent FTP on 2121 port (Rest Mode Support)
 - FW Update Block
+- FTP Server on 2121 port
+- BinLoader Server on 9090 port
+- CE-30391-6 Error CMOS Fix
+
+### :warning: Warnings
+
+The BinLoader server is in an experimental phase but in any case there are several payloads around, some even not very well done, which can also be harmful and in the best case only crash the console. So use it with caution.
+I have tried to work out to support all payloads possible but no guarantees can be given on this. Obviously I do not take any responsibility in case of use of payloads not made by me.
 
 ### Credits
 
@@ -39,14 +48,24 @@ Coded by [SiSTRo](https://github.com/SiSTR0)
 Special thanks:
 - [golden](https://github.com/jogolden)
 - [Joonie](https://github.com/Joonie86)
-- [Kamaleon](https://github.com/KameleonReloaded)
+- [Kameleon](https://github.com/KameleonReloaded)
+- [OSM](https://github.com/OSM-Made)
 
 Greeting to other devs:
 - [Al-Azif](https://github.com/Al-Azif)
 - [ChendoChap](https://github.com/ChendoChap)
-- [flat_z](https://twitter.com/flat_z)
-- [idc](https://twitter.com/3226_2143)
-- [SocraticBliss](https://twitter.com/SocraticBliss)
+- [flat_z](https://github.com/flatz)
+- [idc](https://github.com/idc)
+- [kiwidoggie](https://github.com/kiwidoggie)
+- [qwertyoruiop](https://twitter.com/qwertyoruiopz)
+- [sleirsgoevy](https://github.com/sleirsgoevy)
+- [Specter](https://github.com/Cryptogenic)
+- [SocraticBliss](https://github.com/SocraticBliss)
 - [Vortex](https://github.com/xvortex)
 - [zecoxao](https://twitter.com/notzecoxao)
 
+### Note
+Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
+
+### Donations
+Consider donating by this [link](https://goldhen.github.io/support) if you like GoldHEN and want to support my work
