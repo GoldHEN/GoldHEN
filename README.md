@@ -63,6 +63,7 @@ Greeting to other devs:
 - [SocraticBliss](https://github.com/SocraticBliss)
 - [Vortex](https://github.com/xvortex)
 - [zecoxao](https://twitter.com/notzecoxao)
+- [Znullptr](https://github.com/dmiller423)
 
 ### Note
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
