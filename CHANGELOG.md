@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.0b2
+- Improved BinLoader server (still beta version)
+
 ## v2.0b
 - Added BinLoader server (beta version)
 - Added UI menu
