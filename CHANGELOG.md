@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.1
+- Added config file (/data/GoldHEN/config.ini)
+- Added Klog server on 3232 port
+- Improved rest mode support
+
 ## v2.0b2
 - Improved BinLoader server (still beta version)
 

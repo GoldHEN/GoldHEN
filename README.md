@@ -34,6 +34,7 @@
 - FW Update Block
 - FTP Server on 2121 port
 - BinLoader Server on 9090 port
+- Klog Server on 3232 port
 - CE-30391-6 Error CMOS Fix
 
 ### :warning: Warnings
@@ -46,6 +47,7 @@ I have tried to work out to support all payloads possible but no guarantees can 
 Coded by [SiSTRo](https://github.com/SiSTR0)
 
 Special thanks:
+- [ctn123](https://github.com/ctn123)
 - [golden](https://github.com/jogolden)
 - [Joonie](https://github.com/Joonie86)
 - [Kameleon](https://github.com/KameleonReloaded)
@@ -69,4 +71,6 @@ Greeting to other devs:
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
 
 ### Donations
-Consider donating by this [link](https://goldhen.github.io/support) if you like GoldHEN and want to support my work
+Consider [donating](https://goldhen.github.io/support) if you like GoldHEN and want to support my work
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SiSTRo)
