@@ -50,7 +50,7 @@ Special thanks:
 - [ctn123](https://github.com/ctn123)
 - [golden](https://github.com/jogolden)
 - [Joonie](https://github.com/Joonie86)
-- [Kameleon](https://github.com/KameleonReloaded)
+- [Kameleon](https://github.com/kmeps4)
 - [OSM](https://github.com/OSM-Made)
 
 Greeting to other devs:
