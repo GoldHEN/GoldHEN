@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.1.2
+- Fixed config parser
+
 ## v2.1.1
 - Fixed multiple injections
 
