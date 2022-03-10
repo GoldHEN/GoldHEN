@@ -1,5 +1,9 @@
 # Changelog
 
+## v2.2
+- Added Cheat Menu initial version
+- Added tty redirect to klog
+
 ## v2.1.2
 - Fixed config parser
 

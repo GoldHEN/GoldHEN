@@ -36,18 +36,30 @@
 - BinLoader Server on 9090 port
 - Klog Server on 3232 port
 - CE-30391-6 Error CMOS Fix
+- Integrated Cheat Menu
 
 ### :warning: Warnings
 
 The BinLoader server is in an experimental phase but in any case there are several payloads around, some even not very well done, which can also be harmful and in the best case only crash the console. So use it with caution.
 I have tried to work out to support all payloads possible but no guarantees can be given on this. Obviously I do not take any responsibility in case of use of payloads not made by me.
 
+### :warning: Cheat Menu
+
+The Cheat Menu is experimental, use with caution.
+Please report cheat related issues to the cheat author(s).
+
+Read [CHEATMENU.md](https://github.com/GoldHEN/GoldHEN/blob/master/CHEATMENU.md) for more information.
+
 ### Credits
 
 Coded by [SiSTRo](https://github.com/SiSTR0)
 
-Special thanks:
+Cheat menu coded by:
 - [ctn123](https://github.com/ctn123)
+- [Shinigami](https://github.com/ScriptSK)
+- [SiSTRo](https://github.com/SiSTR0)
+
+Special thanks:
 - [golden](https://github.com/jogolden)
 - [Joonie](https://github.com/Joonie86)
 - [Kameleon](https://github.com/kmeps4)
