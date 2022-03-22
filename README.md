@@ -48,16 +48,19 @@ I have tried to work out to support all payloads possible but no guarantees can 
 The Cheat Menu is experimental, use with caution.
 Please report cheat related issues to the cheat author(s).
 
-Read [CHEATMENU.md](https://github.com/GoldHEN/GoldHEN/blob/master/CHEATMENU.md) for more information.
+Read CHEATMENU.md
 
 ### Credits
 
 Coded by [SiSTRo](https://github.com/SiSTR0)
 
-Cheat menu coded by:
+Cheat Menu coded by:
 - [ctn123](https://github.com/ctn123)
 - [Shinigami](https://github.com/ScriptSK)
 - [SiSTRo](https://github.com/SiSTR0)
+
+[Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager) coded by:
+- [bucanero](https://github.com/bucanero)
 
 Special thanks:
 - [golden](https://github.com/jogolden)
@@ -78,6 +81,12 @@ Greeting to other devs:
 - [Vortex](https://github.com/xvortex)
 - [zecoxao](https://twitter.com/notzecoxao)
 - [Znullptr](https://github.com/dmiller423)
+
+Greeting to QA/Testers:
+- [Brandon Alberhasky](https://twitter.com/alberhasky)
+- [Echo Stretch](https://twitter.com/StretchEcho)
+- [MGS_PS4_PS5_HB_Tester](https://twitter.com/MSZ_MGS)
+- [Pharaoh Raamses](https://github.com/Pharaoh2k)
 
 ### Note
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.

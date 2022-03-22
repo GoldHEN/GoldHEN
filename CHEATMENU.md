@@ -9,9 +9,6 @@ _Cheat Menu allows you bring up a Menu while in-game for you to select cheats._
 The Cheat Menu is experimental, use with caution.  
 Please report cheat related issues to the cheat author(s).
 
-### Known Issues:
-- UI is not rendered correctly for `MasterCode` enabled cheats.
-
 ### Disclaimer:
 While we make every effort to deliver high quality products, we do not guarantee that our products are free from defects. Our software is provided 'as is' and you use the software at your own risk.
 
@@ -30,7 +27,6 @@ While we make every effort to deliver high quality products, we do not guarantee
  - **Note:** Only one file format per `titleid` and `version` is currently supported.
 
 ### To Do:
-- Improve `MasterCode` support.
 - Add multiple cheats support.
 - Add more formats.
 
