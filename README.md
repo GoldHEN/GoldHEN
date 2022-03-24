@@ -83,10 +83,10 @@ Greeting to other devs:
 - [Znullptr](https://github.com/dmiller423)
 
 Greeting to QA/Testers:
-- [Brandon Alberhasky](https://twitter.com/alberhasky)
-- [Echo Stretch](https://twitter.com/StretchEcho)
 - [MGS_PS4_PS5_HB_Tester](https://twitter.com/MSZ_MGS)
-- [Pharaoh Raamses](https://github.com/Pharaoh2k)
+- [Echo Stretch](https://twitter.com/StretchEcho)
+- [Brandon Alberhasky](https://twitter.com/alberhasky)
+- [Pharaoh2k](https://github.com/Pharaoh2k)
 
 ### Note
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.

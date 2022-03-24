@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.2.2
+- Added cheat absolute offset support
+- Fixed close option bug
+- Fixed Orbis Toolbox support bug
+
 ## v2.2.1
 - Improved Cheat Menu stability
 
