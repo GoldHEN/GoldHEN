@@ -92,6 +92,6 @@ Greeting to QA/Testers:
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
 
 ### Donations
-Consider [donating](https://goldhen.github.io/support) if you like GoldHEN and want to support my work
+Consider [donating](https://goldhen.github.io/support) or [sponsoring](https://github.com/sponsors/SiSTR0) if you like GoldHEN and want to support my work
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SiSTRo)
