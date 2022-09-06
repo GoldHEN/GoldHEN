@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.2.3
+- Added debug settings
+- Added cheat settings
+- Added KLog settings
+- Added GoldHEN shortcut
+- Added PS2 cheat support
+- Added Southbridge info
+- Improved app version detection
+- Refactored GoldHEN menu
+
 ## v2.2.2
 - Added cheat absolute offset support
 - Fixed close option bug
