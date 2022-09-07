@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.2.4
+- Fixed KLog tty redirect
+
 ## v2.2.3
 - Added debug settings
 - Added cheat settings
