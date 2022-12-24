@@ -1,5 +1,43 @@
 # Changelog
 
+## v2.3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Added [Plugins](https://github.com/GoldHEN/GoldHEN_Plugins_Repository) support
+- Added FPS counter
+- Added TitleId label feature
+- Added MC4 cheat format support
+- Added Scanlines overlay
+- Added internal pkg installation support (/data/pkg) (Thanks to [OSM](https://github.com/OSM-Made)) 
+
 ## v2.2.4
 - Fixed KLog tty redirect
 

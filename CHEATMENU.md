@@ -4,6 +4,7 @@ _Cheat Menu allows you bring up a Menu while in-game for you to select cheats._
 ## Features
 - `.json` support
 - `.shn` support
+- `.mc4` support
 
 ### :warning: Warnings
 The Cheat Menu is experimental, use with caution.  
@@ -21,9 +22,11 @@ While we make every effort to deliver high quality products, we do not guarantee
 - Use `FTP` to upload cheat files to:
   - `/user/data/GoldHEN/cheats/json/`
   - `/user/data/GoldHEN/cheats/shn/`
+  - `/user/data/GoldHEN/cheats/mc4/`
 - Naming convension: `{titleid}_{version}.{format}`
   - e.g. `CUSA001234_01.01.json`
   - e.g. `CUSA001234_01.01.shn`
+  - e.g. `CUSA001234_01.01.mc4`
  - **Note:** Only one file format per `titleid` and `version` is currently supported.
 
 ### To Do:

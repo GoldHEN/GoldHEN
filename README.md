@@ -37,6 +37,11 @@
 - Klog Server on 3232 port
 - CE-30391-6 Error CMOS Fix
 - Integrated Cheat Menu
+- Integrated FPS Counter
+- Plugins support
+- TitleId label feature
+- Scanlines overlay
+- Internal pkg installation support (/data/pkg) (Thanks to [OSM](https://github.com/OSM-Made))
 
 ### :warning: Warnings
 
@@ -62,6 +67,16 @@ Cheat Menu coded by:
 [Cheat Manager](https://github.com/GoldHEN/GoldHEN_Cheat_Manager) coded by:
 - [bucanero](https://github.com/bucanero)
 
+[Plugin SDK](https://github.com/GoldHEN/GoldHEN_Plugins_SDK) coded by:
+- [bucanero](https://github.com/bucanero)
+- [ctn123](https://github.com/ctn123)
+- [jocover](https://github.com/jocover)
+- [nik](https://github.com/nkrapivin)
+- [OSM](https://github.com/OSM-Made)
+- [SiSTRo](https://github.com/SiSTR0)
+
+Plugin SDK uses [OpenOrbis-PS4-Toolchain](https://github.com/OpenOrbis/OpenOrbis-PS4-Toolchain) so thanks to all [OpenOrbis](https://github.com/OpenOrbis) devs
+
 Special thanks:
 - [golden](https://github.com/jogolden)
 - [Joonie](https://github.com/Joonie86)
@@ -83,15 +98,18 @@ Greeting to other devs:
 - [Znullptr](https://github.com/dmiller423)
 
 Greeting to QA/Testers:
-- [MGS_PS4_PS5_HB_Tester](https://twitter.com/MSZ_MGS)
-- [Echo Stretch](https://twitter.com/StretchEcho)
+- [Arczi](https://www.psxhax.com/members/archi55.566599)
+- [Big_Wadger](https://twitter.com/big_wadger)
 - [Brandon Alberhasky](https://twitter.com/alberhasky)
+- [Echo Stretch](https://twitter.com/StretchEcho)
+- [Marcus Andre](https://github.com/marcussacana)
+- [MGS_PS4_PS5_HB_Tester](https://twitter.com/MSZ_MGS)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
 
 ### Note
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
 
 ### Donations
-Consider [donating](https://goldhen.github.io/support) or [sponsoring](https://github.com/sponsors/SiSTR0) if you like GoldHEN and want to support my work
+Consider [donating](https://goldhen.github.io/support) if you like GoldHEN and want to support my work
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/SiSTRo)
