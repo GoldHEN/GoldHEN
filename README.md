@@ -41,7 +41,7 @@
 - Plugins support
 - TitleId label feature
 - Scanlines overlay
-- Internal pkg installation support (/data/pkg) (Thanks to [OSM](https://github.com/OSM-Made))
+- Internal pkg installation support (`/data/pkg`) (Thanks to [OSM](https://github.com/OSM-Made))
 
 ### :warning: Warnings
 
