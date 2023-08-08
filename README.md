@@ -41,7 +41,7 @@
 - Plugins support
 - TitleId label feature
 - Scanlines overlay
-- Internal pkg installation support (/data/pkg) (Thanks to [OSM](https://github.com/OSM-Made))
+- Internal pkg installation support (`/data/pkg`) (Thanks to [OSM](https://github.com/OSM-Made))
 
 ### :warning: Warnings
 
@@ -53,7 +53,7 @@ I have tried to work out to support all payloads possible but no guarantees can 
 The Cheat Menu is experimental, use with caution.
 Please report cheat related issues to the cheat author(s).
 
-Read CHEATMENU.md
+Read [CHEATMENU.md](CHEATMENU.md)
 
 ### Credits
 
