@@ -105,6 +105,7 @@ Greeting to QA/Testers:
 - [Marcus Andre](https://github.com/marcussacana)
 - [MGS_PS4_PS5_HB_Tester](https://twitter.com/MSZ_MGS)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
+- [Alfie](https://gbatemp.net/members/arfgh.506372)
 
 ### Note
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
