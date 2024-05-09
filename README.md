@@ -32,7 +32,7 @@
 - Never Disable Screenshot
 - Remote Play Enabler
 - FW Update Block
-- FTP Server on 2121 port
+- FTP Server on 2121 port (Thanks to [hippie68](https://github.com/hippie68))
 - BinLoader Server on 9090 port
 - Klog Server on 3232 port
 - CE-30391-6 Error CMOS Fix
@@ -41,7 +41,7 @@
 - Plugins support
 - TitleId label feature
 - Scanlines overlay
-- Internal pkg installation support (`/data/pkg`) (Thanks to [OSM](https://github.com/OSM-Made))
+- Internal pkg installation support (/data/pkg) (Thanks to [OSM](https://github.com/OSM-Made))
 
 ### :warning: Warnings
 
@@ -53,7 +53,7 @@ I have tried to work out to support all payloads possible but no guarantees can 
 The Cheat Menu is experimental, use with caution.
 Please report cheat related issues to the cheat author(s).
 
-Read [CHEATMENU.md](CHEATMENU.md)
+Read CHEATMENU.md
 
 ### Credits
 
@@ -105,7 +105,6 @@ Greeting to QA/Testers:
 - [Marcus Andre](https://github.com/marcussacana)
 - [MGS_PS4_PS5_HB_Tester](https://twitter.com/MSZ_MGS)
 - [Pharaoh2k](https://github.com/Pharaoh2k)
-- [Alfie](https://gbatemp.net/members/arfgh.506372)
 
 ### Note
 Project source code is currently private because over time I have seen a sad abuse of the source code that I, like the previous devs who worked on it, have been pleased to make it available to everyone to study and maybe improve it.
