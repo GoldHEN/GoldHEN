@@ -1,5 +1,8 @@
 # Changelog
 
+## v2.4b17.2
+- Added support for 10.00 / 10.01
+
 ## v2.4b17
 - Added support for kernel loaders
 - Added support for 11.00
