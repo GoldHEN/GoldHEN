@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.4b17.3
+- Added support for 9.60
+- Improved BinLoader server (more payloads supported)
+- Improved Klog server (network disconnection supported)
+- Changed network servers configuration to declarative
+
 ## v2.4b17.2
 - Added support for 10.00 / 10.01
 
