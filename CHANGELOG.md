@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.4b18
+- Added Cheat Downloader (Thanks to [ctn](https://github.com/ctn123))
+- Added support for 10.50, 10.70 and 10.71
+- Improved rest mode support
+- Fixed network servers configuration save
+- Moved Klog server to userland (better network disconnection supports)
+
 ## v2.4b17.3
 - Added support for 9.60
 - Improved BinLoader server (more payloads supported)

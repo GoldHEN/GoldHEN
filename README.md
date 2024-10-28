@@ -48,6 +48,10 @@
 The BinLoader server is in an experimental phase but in any case there are several payloads around, some even not very well done, which can also be harmful and in the best case only crash the console. So use it with caution.
 I have tried to work out to support all payloads possible but no guarantees can be given on this. Obviously I do not take any responsibility in case of use of payloads not made by me.
 
+### :warning: Known Issues
+
+Applications such as Apollo, Itemzflow, and Orbis Toolbox may cause the PS4 console to crash/malfunction during entering/exiting rest mode.
+
 ### :warning: Cheat Menu
 
 The Cheat Menu is experimental, use with caution.
